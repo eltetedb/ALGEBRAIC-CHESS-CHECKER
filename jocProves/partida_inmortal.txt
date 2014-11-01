@@ -1,0 +1,23 @@
+1. Pe2e4 Pe7e5
+2. Pf2f4 Pe5xf4
+3. Af1c4 Dd8h4+
+4. Re1f1 Pb7b5
+5. Ac4xb5 Cg8f6
+6. Cg1f3 Dh4h6
+7. Pd2d3 Cf6h5
+8. Cf3h4 Dh6g5
+9. Ch4f5 Pc7c6
+10. Pg2g4 Ch5f6
+11. Th1g1 Pc6xb5
+12. Ph2h4 Dg5g6
+13. Ph4h5 Dg6g5
+14. Dd1f3 Cf6g8
+15. Ac1xf4 Dg5f6
+16. Cb1c3 Af8c5
+17. Cc3d5 Df6xb2
+18. Af4d6 Ac5xg1
+19. Pe4e5 Db2xa1+
+20. Rf1e2 Cb8a6
+21. Cf5xg7+ Re8d8
+22. Df3f6+ Cg8xf6
+23. Ad6e7++
